@@ -50,9 +50,6 @@
 🛠️ Tools & Others
 <p align="left"> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html">
 <h2 align="center">👀 Profile Viewers</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabash-code&label=Profile%20Views&color=00E4FF&style=for-the-badge" alt="profile views"/>
-</p>
 
 ---
 
