@@ -58,7 +58,7 @@
 
 <h2 align="center">🔥 GitHub Contributions</h2>
 
-<img align="right" height="270px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252Y3RtdGUwMGQ3Y2dsYTZ0YnZ1N2pheGhndWd6Z205bng5aHlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif"  />
+<img align="right" height="200px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252Y3RtdGUwMGQ3Y2dsYTZ0YnZ1N2pheGhndWd6Z205bng5aHlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif"  />
 <p align="center">
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabash-code&theme=dark&hide_border=true" alt="GitHub Streak"/>
