@@ -58,36 +58,34 @@
 
 <h2 align="center">🔥 GitHub Contributions</h2>
 
+<img align="right" height="270px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252Y3RtdGUwMGQ3Y2dsYTZ0YnZ1N2pheGhndWd6Z205bng5aHlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif"  />
 <p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabash-code&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabash-code&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
+  <img height=150em src="https://github-readme-stats.vercel.app/api?username=prabash-code&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabash-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabash-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash-code&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
+<p align="left">
   🔗 LinkedIn:
-  <a href="https://www.linkedin.com/in/prabash-withanachchi" target="_blank">
     Prabash Withanachchi
   </a>
-</p>
 
-<p align="center">
   📩 Email:
   <a href="mailto:withanachchi.pc@gmail.com">
     withanachchi.pc@gmail.com
   </a>
+
 </p>
+
