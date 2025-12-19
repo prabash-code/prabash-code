@@ -49,7 +49,7 @@
 
 🛠️ Tools & Others
 <p align="left"> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html">
-<h2 align="center">👀 Profile Viewers</h2>
+
 
 ---
 
@@ -72,17 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash-code&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
-<h2 align="center">📫 Connect With Me</h2>
 
-<p align="left">
-  🔗 LinkedIn:
-    Prabash Withanachchi
-  </a>
-
-  📩 Email:
-  <a href="mailto:withanachchi.pc@gmail.com">
-    withanachchi.pc@gmail.com
-  </a>
 
 </p>
 
