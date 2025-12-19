@@ -2,13 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&center=true&vCenter=true&width=500&lines=Hi+There+👋;I'm+Prabash+Withanachchi;Software+Engineering+Enthusiast" alt="Typing Animation">
 </h1>
 
+
+
 <!-- <div align="center">
   <!-- Upload your image to the repo and update the path -->
-  <img src="./profile.png" width="160" alt="Profile Avatar"
-       style="border-radius: 50%; border: 4px dashed #00E4FF;">
-</div> -->
+
 
 <br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br>
+
 
 <div align="center">
   <p>
@@ -20,7 +24,11 @@
   </p>
 </div>
 
+
+
+
 ---
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&center=true&vCenter=true&width=600&lines=Code+Artisan+%7C+Backend+Focused+Engineer;Leveling+Up+Through+Clean+Architecture;Recruiters%3A+Check+My+Stats+Below+👇" alt="Typing Animation">
@@ -28,53 +36,19 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
 
-<h3 align="center">🔹 Programming Languages</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white">&nbsp;
-</div>
+🖥️ Frontend
+<p align="left"> <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a></a> <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> </p>
+⚙️ Backend
+<p align="left"> <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>  </p>
+🗃️ Databases
+<p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>  </p>
 
-<br>
+☁️ Cloud & DevOps
+<p align="left"> <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a> 
 
-<h3 align="center">🔹 Frontend Technologies</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">🔹 Backend & Frameworks</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=api&logoColor=white">&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">🔹 Databases</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">🔹 Tools & Platforms</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">&nbsp;
-</div>
-
----
-
+🛠️ Tools & Others
+<p align="left"> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html">
 <h2 align="center">👀 Profile Viewers</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabash-code&label=Profile%20Views&color=00E4FF&style=for-the-badge" alt="profile views"/>
@@ -97,6 +71,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash-code&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
+</p>
 
 <h2 align="center">📫 Connect With Me</h2>
 
